@@ -1,6 +1,6 @@
 *PROJETO Xsys Solutions* 
 ::::::::::::::::::::::::::::::::::::::::::::
-	API .NET Core 5.0
+	API RESTfull .NET Core 5.0
 ::::::::::::::::::::::::::::::::::::::::::::
 
 fiz com o Enable OpenAPI Support para visão grafica pelo SWAGGER.
